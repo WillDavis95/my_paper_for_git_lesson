@@ -6,3 +6,5 @@
 And some random text
 
 And another paragraph of text here....
+ 
+Some important details about methodology
